@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m **Frontend Development and currently I'm learning DSA.**
+- 🌱 I’m **Frontend Developer and currently I'm learning DSA.**
 
 - 📫 How to reach me **anushkas.rastogi12@gmail.com**
 
